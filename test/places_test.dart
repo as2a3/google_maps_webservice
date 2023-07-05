@@ -926,7 +926,7 @@ const _textSearchResponseExample = {
         {
           'height': 810,
           'html_attributions': [
-            '\u003ca href=\"https://maps.google.com/maps/contrib/107196947767897770095\"\u003eUwe Delau\u003c/a\u003e'
+            '\u003ca href="https://maps.google.com/maps/contrib/107196947767897770095"\u003eUwe Delau\u003c/a\u003e'
           ],
           'photo_reference':
               'ATtYBwK5nQr4pKVwk0xnAaIV2hj-I4710I5sdXh7eGGBQWFrOD1N7AJgXy7ZnHwsE0Lbk9yNlj42REQM8ZWKm-7HIDj1mrNXEh6lWoNPc9JVywROmrHVCqnOuER3bmbrGQR7JRsF3n2uBilksqdJoSNuvr8BH4S4KJpyD_CiIUhed1JAvoEo',
@@ -975,7 +975,7 @@ const _placeDetailsExample = {
     }
   ],
   'adr_address':
-      '<span class=\"street-address\">Filigudi Ct</span>, <span class=\"locality\">Frankston South</span> <span class=\"region\">VIC</span> <span class=\"postal-code\">3199</span>, <span class=\"country-name\">Australia</span>',
+      '<span class="street-address">Filigudi Ct</span>, <span class="locality">Frankston South</span> <span class="region">VIC</span> <span class="postal-code">3199</span>, <span class="country-name">Australia</span>',
   'business_status': 'OPERATIONAL',
   'formatted_address': 'Filigudi Ct, Frankston South VIC 3199, Australia',
   'formatted_phone_number': '0431 887 848',
@@ -994,7 +994,7 @@ const _placeDetailsExample = {
     {
       'height': 4032,
       'html_attributions': [
-        '<a href=\"https://maps.google.com/maps/contrib/101246297873069804005\">Habitat Surf</a>'
+        '<a href="https://maps.google.com/maps/contrib/101246297873069804005">Habitat Surf</a>'
       ],
       'photo_reference':
           'ATtYBwLH_-MyoefQNFeI_G3WoFTdjI-zTcK6-KhRS2qYdaHvvHPW-80408rIrTOCCV1SAiYNp40x-Ut7hBGrzP6PM0I4c0WrFPGybaF_ftyNOdAD2l7D6LhfXbgqfbv7hMXTZkP-bdEK24i2_SF5Y7tkHErPRzD3Z1EAfz4wKwQ1mmbxLCV1',
@@ -1003,7 +1003,7 @@ const _placeDetailsExample = {
     {
       'height': 3557,
       'html_attributions': [
-        '<a href=\"https://maps.google.com/maps/contrib/101246297873069804005\">Habitat Surf</a>'
+        '<a href="https://maps.google.com/maps/contrib/101246297873069804005">Habitat Surf</a>'
       ],
       'photo_reference':
           'ATtYBwJ9LhX8MhRj8lnJnlqmv-6uraUb_5_ozvQxuzRGRyTniZjo0_bzyh-Mi7SXvH9OSyqB8qwIk2EdnBOuHoU6tlsEGs7wCSNUFeWiI20AKGjrYgeu073sTvwVr_Of0Ka7258NKdf1qEdiQx2ZY8P4wcRb9TkyRjaEXZi2-aCGmLEulHke',
@@ -1012,7 +1012,7 @@ const _placeDetailsExample = {
     {
       'height': 1024,
       'html_attributions': [
-        '<a href=\"https://maps.google.com/maps/contrib/101246297873069804005\">Habitat Surf</a>'
+        '<a href="https://maps.google.com/maps/contrib/101246297873069804005">Habitat Surf</a>'
       ],
       'photo_reference':
           'ATtYBwIcWzamoiCsqsBSVTYlF4TujnnfK2C8sBSk0fwyrB-tw5D-6KKg7uuRL2l_Ndi-7RnrcYV9otV0l41pu5lEus2tkTyVxkyFWOj_cN-zJiOkyBSleC3II2ozocDsxXiEsWzUhxKiMJjYI1Bsi186kIbzsBMYjLoD64dgBoSfrBQVhG8h',
@@ -1021,7 +1021,7 @@ const _placeDetailsExample = {
     {
       'height': 2268,
       'html_attributions': [
-        '<a href=\"https://maps.google.com/maps/contrib/101246297873069804005\">Habitat Surf</a>'
+        '<a href="https://maps.google.com/maps/contrib/101246297873069804005">Habitat Surf</a>'
       ],
       'photo_reference':
           'ATtYBwJiDjV_qKQoxeTMie8lpIatwAGpjpx2oOB_0iQSO5Z87NP5OgPBncLA6ti--yYgXAll17RynG89FlQNSfm7_eua-Qbd7Fyu2-FxIecp60lqIgI9gt-SXSFMRrH_pYxj2SgXVpcIN5ObRFm6-E8V8hARy78dBBBuNAzLKegylJoypikp',
@@ -1030,7 +1030,7 @@ const _placeDetailsExample = {
     {
       'height': 2268,
       'html_attributions': [
-        '<a href=\"https://maps.google.com/maps/contrib/101246297873069804005\">Habitat Surf</a>'
+        '<a href="https://maps.google.com/maps/contrib/101246297873069804005">Habitat Surf</a>'
       ],
       'photo_reference':
           'ATtYBwI3Plt0GnRqnTpBil97Ggn7p4Da6-x6RP3My8Mldd0qJFK-gm0khac0VTe4bLIjkbq4dVeqYtnJq9__GQTGjGoO9s1iPI8bjmnwPUXUTRXf_gtU7AGrwPBUfqL5KsmCMq4SUtOWRKVCIZ1IwQclziSg9UCy3ZfJWazI--Be4IYV88PY',
